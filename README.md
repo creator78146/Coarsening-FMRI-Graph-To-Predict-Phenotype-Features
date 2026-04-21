@@ -225,11 +225,6 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/) and e
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
-
----
 
 <div align="center">
 
