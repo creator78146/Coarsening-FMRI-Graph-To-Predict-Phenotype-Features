@@ -15,7 +15,7 @@
 
 <br/>
 
-> **Transforming high-dimensional brain connectivity graphs into compact, predictive representations — bridging neuroscience and machine learning.**
+> **Transforming high-dimensional brain connectivity graphs into compact, predictive representations — bridging neuroscience and machine learning-FINAL-YEAR-GROUP PROJECT(2027)**
 
 <br/>
 
